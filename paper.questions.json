@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What property gives in\ufb01nite-dimensional operators quasi\ufb01nite-dimensional characteristics?",
+    "answer_idx": 5,
+    "answer_sent": "Compactness is the property that imbues in\ufb01nite-dimensional operators with quasi\ufb01nite-dimensional properties."
+  },
+  {
+    "question": "What method provides a finite-section approximation of the Koopman operator by considering nonlinear functions of state?",
+    "answer_idx": 22,
+    "answer_sent": "The Extended Dynamic Mode Decomposition [17] recognizes that nonlinear functions of state might be necessary to describe a \ufb01nite-dimensional invariant subset of the Koopman operator and provides an algorithm for \ufb01nite-section approximation of the Koopman operator."
+  },
+  {
+    "question": "What is the first result provided regarding convergence rate under sample size increase in finite-section approximation?",
+    "answer_idx": 37,
+    "answer_sent": "Under assumptions on the underlying dynamics, we provide the \ufb01rst result on the convergence rate under sample size increase in the \ufb01nite-section approximation."
+  },
+  {
+    "question": "What is the definition of the Koopman operator U in relation to the space of observables F and the map T?",
+    "answer_idx": 57,
+    "answer_sent": "(5) Let F be a space of observables and U : F \u2192F the Koopman operator associated with a map T (note this means that f \u25e6T \u2208F if f \u2208F)."
+  },
+  {
+    "question": "How is the Koopman mode associated with \u03bbk obtained in terms of eigenfunctions and modes?",
+    "answer_idx": 73,
+    "answer_sent": "Then, the Koopman mode associated with \u03bbk is obtained by computing fk = lim n\u2192\u221e 1 n n\u22121 X i=0 \u03bb\u2212i k \uf8eb \uf8edf(T ix, z) \u2212 k\u22121 X j=0 \u03bbi j\u03c6j(x)sj(z) \uf8f6 \uf8f8 = lim n\u2192\u221e 1 n n\u22121 X i=0 \u03bb\u2212i k \uf8eb \uf8edf i(z) \u2212 k\u22121 X j=0 \u03bbi jfj \uf8f6 \uf8f8 (12) where fk = \u03c6k(x)sk(z), \u03c6k is an eigenfunction of U with |\u03c6k| = 1 and sk is the k-th Koopman mode."
+  },
+  {
+    "question": "What does fk represent in terms of the Koopman operator's eigenspace and the field of observables?",
+    "answer_idx": 90,
+    "answer_sent": "(24) In other words, fk is the skew-projection of the \ufb01eld of observables f(x, z) on the eigenspace of the Koopman operator associated with the eigenvalue \u03bbk."
+  },
+  {
+    "question": "What is analyzed in the context of a finite section of the operator in this section?",
+    "answer_idx": 104,
+    "answer_sent": "In this section we analyze such methods in the context of \ufb01nite section of the operator and explore connections to the dual basis. 4.1"
+  },
+  {
+    "question": "What does the finite section method provide in this context?",
+    "answer_idx": 121,
+    "answer_sent": "In this case, the \ufb01nite section method provides us with the subset of the exact eigenvalues of the Koopman operator."
+  },
+  {
+    "question": "What property must T have with respect to the invariant measure \u00b5 on M?",
+    "answer_idx": 137,
+    "answer_sent": "Let {f1, .., fN} be an orthogonal set of functions in L2(M, \u00b5) and let T be ergodic on M with respect to an invariant measure \u00b5."
+  },
+  {
+    "question": "How are the rows \u02c6gk(xl), l = 1, ..., m obtained in relation to the matrix (F \u2020F)\u22121F \u2020?",
+    "answer_idx": 154,
+    "answer_sent": "The fact that \u02c6gk(xl), l = 1, ..., m are obtained as rows of the matrix (F \u2020F)\u22121F \u2020 follows from (F \u2020F)\u22121F \u2020F = IN (53) where IN is the N \u00d7 N identity matrix."
+  },
+  {
+    "question": "What condition must $ a $ satisfy for $ U\\phi = \\lambda \\phi $ to hold in this context?",
+    "answer_idx": 170,
+    "answer_sent": "where a = (a1, ..., aN) satis\ufb01es \u02dcUNa = \u03bba, since, for such \u03c6, U\u03c6 = a \u00b7 U\u02dcf = \u03bb\u03c6 = \u03bba \u00b7 \u02dcf = UNa \u00b7 \u02dcf."
+  },
+  {
+    "question": "What are the eigenfunctions of the finite section in terms of eigenvectors and \u02dcf?",
+    "answer_idx": 185,
+    "answer_sent": "Let aj, j = 1, ..., N be eigenvectors of \u02dcUN, and thus the associated eigenfunctions of the \ufb01nite section are \u03c6j = aj \u00b7 \u02dcf, j = 1, ..., N (62) where aj = (aj1, ..., ajN)."
+  },
+  {
+    "question": "What is the matrix FA expressed in terms of eigenfunctions and input points?",
+    "answer_idx": 199,
+    "answer_sent": "(74) Using (60) we get FA = \uf8ee \uf8ef\uf8ef\uf8ef\uf8f0 \u02dcf(x1) \u00b7 a1 \u02dcf(x1) \u00b7 aN \u02dcf(x2) \u00b7 a1 \u02dcf(x2) \u00b7 aN ... ... \u02dcf(xm) \u00b7 a1 \u02dcf(xm) \u00b7 aN \uf8f9 \uf8fa\uf8fa\uf8fa\uf8fb= \uf8ee \uf8ef\uf8ef\uf8ef\uf8f0 \u02dc\u03c61(x1) \u02dc\u03c6N(x1) \u02dc\u03c61(x2) \u02dc\u03c6N(x2) ... ... \u02dc\u03c61(xm) \u02dc\u03c6N(xm) \uf8f9 \uf8fa\uf8fa\uf8fa\uf8fb (75) where \u02dc\u03c6j is an eigenfunction of the \ufb01nite section, and aj\u2019s are the columns of A."
+  },
+  {
+    "question": "What type of convergence was established in [18] for spectral convergence in the infinite-dimensional setting?",
+    "answer_idx": 229,
+    "answer_sent": "Spectral convergence in the in\ufb01nite-dimensional setting is a more di\ufb03cult question (see [18] in which only convergence along subsequences was established under certain assumptions)."
+  },
+  {
+    "question": "What concept involves starting with a single observable and spanning an invariant subspace of the Koopman operator?",
+    "answer_idx": 248,
+    "answer_sent": "The idea is that one might start with a single observable, and due to its evolution span an invariant subspace of the Koopman operator (note the connection of such methods with the Takens embedding theorem ideas [4, 20])."
+  },
+  {
+    "question": "What is the value of \u02dcukj in terms of \u03b4k,j+1 based on the inner product \u27e8fj+1, \u02c6gk\u27e9?",
+    "answer_idx": 267,
+    "answer_sent": "(91) Since \u27e8fj, \u02c6gk\u27e9= \u03b4k,j, (92) for j = 1, ..., N \u22121, k = 1, ..., N we have \u02dcukj = \u27e8Ufj, \u02c6gk\u27e9= \u27e8fj+1, \u02c6gk\u27e9= \u03b4k,j+1 (93) which produces zeros in all columns of row k except in the column j \u22121, where we have a 1."
+  },
+  {
+    "question": "What condition on the Krylov sequence ensures an eigenfunction of the finite section is in the \u01eb-pseudospectrum of $ U $?",
+    "answer_idx": 283,
+    "answer_sent": "Let the Krylov sequence satisfy lim N\u2192\u221e||f \u25e6T N \u2212\u02dcc \u00b7 \u02dcf|| = 0 (103) Then, for and \u01eb > 0, for large enough n, an eigenfunction of the \ufb01nite section \u02dc\u03c6 is in the \u01eb-pseudospectrum of U."
+  },
+  {
+    "question": "How do methods using Krylov sequences approximate the spectrum in high-dimensional spaces?",
+    "answer_idx": 303,
+    "answer_sent": "Thus methods relying on Krylov sequences are \u201csampling\u201d the high-dimensional space and can approximate the part of the spectrum contained in their invariant subspace irrespective of the dimension of the problem."
+  },
+  {
+    "question": "What equation relates F, F \u2032, and C according to equation (117)?",
+    "answer_idx": 318,
+    "answer_sent": "We have F \u2032 = FC, (116) or C = F +F \u2032 (117) as could be surmised from (55), and the following corollary of the lemma 1 holds: Corollary 5.1."
+  },
+  {
+    "question": "What is the relationship between FV, G\u03a3, and the columns of V and U as defined by equations (122) and (123)?",
+    "answer_idx": 333,
+    "answer_sent": "Note that FV = G\u03a3, (122) and thus Fvj = \u03c3juj, j = 1, ..., n (123) where vj is the j-th column of V and uj is the j-the column of u."
+  },
+  {
+    "question": "Does the operator mapping $ f_j(X)^T $ to $ f_j(Y)^T $ depend on $ j $?",
+    "answer_idx": 351,
+    "answer_sent": "However, the c\u2032s need not depend on j, since the operator that maps the vectors fj(X)T to fj(Y)T is not dependent on j."
+  },
+  {
+    "question": "Does the ability to express iterates in terms of m independent functions depend on S being an invariant set?",
+    "answer_idx": 366,
+    "answer_sent": "However, while in the case where S is an invariant set, the iterate of any function in C|S can be obtained in terms of the iterate of m independent functions, for the case when S is not invariant this is not necessarily so."
+  },
+  {
+    "question": "What theorem guarantees the existence of a measure \u00b5 such that L(h) = \u222b\u2098 h d\u00b5?",
+    "answer_idx": 387,
+    "answer_sent": "(152) Then, by the Riesz representation theorem there is a measure \u00b5, such that L(h) = Z M hd\u00b5."
+  },
+  {
+    "question": "In what context is the non-linear evolution of observables fields particularly important?",
+    "answer_idx": 401,
+    "answer_sent": "This is particularly important in the context of evolution equations, for example \ufb02uid \ufb02ows, where the evolution of observables \ufb01eld - the \ufb01eld of velocity vectors at di\ufb00erent spatial points - is not evolving linearly. 7"
+  },
+  {
+    "question": "Who provided careful reading and useful comments on the paper?",
+    "answer_idx": 413,
+    "answer_sent": "Acknowledgements I am thankful to Hassan Arbabi and Mathias Wanner for carefully reading the paper and useful comments."
+  }
+]

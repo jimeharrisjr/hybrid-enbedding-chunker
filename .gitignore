@@ -1,0 +1,36 @@
+# --- private corpus ---
+# The novel is unpublished original work-in-progress. Keep all derivatives out
+# of git: source text, embeddings cache, LLM-generated questions (which echo
+# source sentences), and the boundary-placement plot.
+novel.txt
+novel.embeddings.npz
+novel.questions.json
+novel_plot.png
+novel.*.json
+novel*.png
+
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# --- macOS ---
+.DS_Store
+
+# --- editor / tool state ---
+.claude/
+.idea/
+.vscode/
+
+# --- pandoc/rmarkdown intermediates ---
+REPORT.tex
+REPORT.log
+REPORT.aux
+REPORT.knit.md
+REPORT_files/
+
+# --- legacy / superseded artifacts ---
+# numerics.txt is the v1 pypdf extraction of the arXiv paper, kept locally
+# for comparison; paper.txt (PyMuPDF) supersedes it.
+numerics.txt

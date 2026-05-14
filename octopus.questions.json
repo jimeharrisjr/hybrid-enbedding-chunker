@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What makes octopuses stand out in terms of intelligence and behavior among invertebrates?",
+    "answer_idx": 6,
+    "answer_sent": "Octopuses have a complex nervous system and excellent sight, and are among the most intelligent and behaviourally diverse invertebrates."
+  },
+  {
+    "question": "What is the origin of the scientific Latin term *octopus*?",
+    "answer_idx": 17,
+    "answer_sent": "The scientific Latin term octopus was derived from Ancient Greek \u1f40\u03ba\u03c4\u03ce\u03c0\u03bf\u03c5\u03c2 (okt\u014dpous), a compound form of \u1f40\u03ba\u03c4\u03ce (okt\u014d, 'eight') and \u03c0\u03bf\u03cd\u03c2 (pous, 'foot'), itself a variant form of \u1f40\u03ba\u03c4\u03ac\u03c0\u03bf\u03c5\u03c2, a word used for example by Alexander of Tralles (c. 525 \u2013 c. 605)."
+  },
+  {
+    "question": "Which octopus species is frequently recognized as the largest?",
+    "answer_idx": 27,
+    "answer_sent": "The giant Pacific octopus (Enteroctopus dofleini) is often cited as the largest octopus species."
+  },
+  {
+    "question": "How are the arms described and divided based on side and sequence position?",
+    "answer_idx": 36,
+    "answer_sent": "The arms can be described based on side and sequence position (such as L1, R1, L2, R2) and divide into four pairs."
+  },
+  {
+    "question": "What are the two distinct muscular parts of each circular, bowl-like sucker?",
+    "answer_idx": 46,
+    "answer_sent": "Each sucker is typically circular and bowl-like and has two distinct parts: an outer disc-shaped infundibulum and an inner cup-like acetabulum, both of which are thick muscles covered in connective tissue."
+  },
+  {
+    "question": "Do octopuses have an open or closed circulatory system?",
+    "answer_idx": 57,
+    "answer_sent": "=== Circulatory system === Octopuses have a closed circulatory system, in which the blood remains inside blood vessels."
+  },
+  {
+    "question": "How does blood return to the main heart after passing through the venae cavae?",
+    "answer_idx": 67,
+    "answer_sent": "The blood circulates through the aorta and capillary system, to the venae cavae, after which the blood is pumped through the gills by the branchial hearts and back to the main heart."
+  },
+  {
+    "question": "What structures make up the buccal mass in the digestive system?",
+    "answer_idx": 77,
+    "answer_sent": "=== Digestion and excretion === The digestive system begins with the buccal mass which consists of the mouth with the beak, the pharynx, radula and salivary glands."
+  },
+  {
+    "question": "Do arms make decisions independently when supplied with information?",
+    "answer_idx": 90,
+    "answer_sent": "Learning mainly occurs in the brain, while arms make decisions independently when supplied with information."
+  },
+  {
+    "question": "What structures help octopuses sense their body orientation relative to gravity and angular acceleration?",
+    "answer_idx": 99,
+    "answer_sent": "Attached to the optic capsules are two organs called statocysts (sac-like structures containing a mineralised mass and sensitive hairs), that allow the octopus to sense the orientation of its body, relative to both gravity and time (angular acceleration)."
+  },
+  {
+    "question": "What gland in an octopus produces hormones that lead to maturation, aging, and gamete production?",
+    "answer_idx": 116,
+    "answer_sent": "An optic gland creates hormones that cause the octopus to mature and age and stimulate gamete production."
+  },
+  {
+    "question": "How many spermatophores are transferred and what is their approximate length?",
+    "answer_idx": 126,
+    "answer_sent": "Two spermatophores are transferred in this way; these are about one metre (yard) long, and the empty ends may protrude from the female's mantle."
+  },
+  {
+    "question": "How long does it take for eggs to fully develop in colder waters like those off Alaska?",
+    "answer_idx": 137,
+    "answer_sent": "In colder waters, such as those off Alaska, it may take up to ten months for the eggs to completely develop."
+  },
+  {
+    "question": "What is the maximum depth at which *Vulcanoctopus hydrothermalis* is found around hydrothermal vents?",
+    "answer_idx": 159,
+    "answer_sent": "The spoon-armed octopus (Bathypolypus arcticus) can live 1,000 m (3,300 ft) deep, and Vulcanoctopus hydrothermalis lives in depths of 2,000 m (6,600 ft) around hydrothermal vents."
+  },
+  {
+    "question": "How do they regulate the species composition and partner behavior in the hunting group?",
+    "answer_idx": 175,
+    "answer_sent": "They regulate the species composition of the hunting group \u2013 and the behavior of their partners \u2013 by punching them."
+  },
+  {
+    "question": "How long does it take for the shell to be penetrated, and what happens to the prey afterward?",
+    "answer_idx": 184,
+    "answer_sent": "This can take hours and once the shell is penetrated, the prey dies almost instantaneously."
+  },
+  {
+    "question": "What form of locomotion helps octopuses escape predators unnoticed?",
+    "answer_idx": 193,
+    "answer_sent": "This form of locomotion allows these octopuses to move quickly away from a potential predator without being recognised."
+  },
+  {
+    "question": "How do they perform sudden moves called \"take-offs\"?",
+    "answer_idx": 204,
+    "answer_sent": "They can also contract their arms and surrounding web to make sudden moves known as \"take-offs\"."
+  },
+  {
+    "question": "What evidence interpretation suggests octopuses have sentience and can feel pain?",
+    "answer_idx": 213,
+    "answer_sent": "Interpretation of evidence has been used to suggest that octopuses have sentience and can feel pain."
+  },
+  {
+    "question": "What defensive strategies do octopuses use besides hiding and camouflage?",
+    "answer_idx": 227,
+    "answer_sent": "Octopuses typically hide or disguise themselves by camouflage and mimicry; some have conspicuous warning coloration (aposematism) or deimatic behaviour (\"bluffing\" a threatening appearance)."
+  },
+  {
+    "question": "How many species of protistan and metazoan parasites are recognised in cephalopods?",
+    "answer_idx": 236,
+    "answer_sent": "=== Pathogens and parasites === Cephalopods are known to be the intermediate or final hosts of various parasitic cestodes, nematodes and copepods; 150 species of protistan and metazoan parasites are recognised."
+  },
+  {
+    "question": "Do incirrate internal shells appear as stylets or are they absent?",
+    "answer_idx": 246,
+    "answer_sent": "In addition, the internal shell of incirrates is either present as a pair of stylets or absent altogether."
+  },
+  {
+    "question": "Who created a molecular phylogeny based on mitochondrial and nuclear DNA marker sequences, as referenced in the cladograms?",
+    "answer_idx": 256,
+    "answer_sent": "The cladograms are based on Sanchez et al., 2018, who created a molecular phylogeny based on mitochondrial and nuclear DNA marker sequences."
+  },
+  {
+    "question": "Which two gene families show large developments in the octopus genome?",
+    "answer_idx": 266,
+    "answer_sent": "The octopus genome is unremarkably bilaterian except for large developments of two gene families: protocadherins, which regulate the development of neurons; and the C2H2 zinc-finger transcription factors."
+  },
+  {
+    "question": "In which 1973 novel does an octopus named Grigori attack a woman on the beach?",
+    "answer_idx": 275,
+    "answer_sent": "Similarly, in the 1973 novel Gravity's Rainbow an octopus named Grigori attacks a woman on the beach."
+  }
+]
